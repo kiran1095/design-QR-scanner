@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 Have replicated the QR code component challenge design from Frontend Mentor.
 
@@ -22,8 +20,8 @@ Have replicated the QR code component challenge design from Frontend Mentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kiran1095/design-QR-scanner]
+- Live Site URL: [https://kiran1095.github.io/design-QR-scanner/]
 
 ## My process
   I have used Flexbox, css and html.
@@ -35,7 +33,5 @@ Have replicated the QR code component challenge design from Frontend Mentor.
 - Flexbox
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kiran1095)
 
